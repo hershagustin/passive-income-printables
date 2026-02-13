@@ -49,4 +49,4 @@ This project showcases my ability to:
 - Marketing strategy for digital products  
 
 
-# LIVE WEBSITE : https://passiveincomeprintables.netlify.app/
+# DEMO WEBSITE : https://passiveincomeprintables.netlify.app/
